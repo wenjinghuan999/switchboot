@@ -1,0 +1,13 @@
+isolinux
+pics
+pool
+preseed
+md5sum.txt
+README.diskdefines
+.disk
+boot
+casper
+dists
+EFI
+install
+UBUNTU.txt
