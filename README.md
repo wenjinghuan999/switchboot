@@ -1,6 +1,8 @@
 # switchboot
 A simple .bat file to switch booting system for USB disk (by moving files to/from the root folder of the disk)
 
+![Alt text](switchboot1.PNG?raw=true)
+
 ## Usage
 - Put this file under the root directory of the usb disk.
 - Put each booting system under a folder named by an `{ID}` (which will be used later). 
