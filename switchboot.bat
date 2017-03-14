@@ -6,7 +6,7 @@ echo  Systems avaliable:
 echo ========================================
 set idx=0
 set CURRSYS=0
-set systitle0=None bootable
+set systitle0=Non-bootable
 for /f "tokens=1,2 delims=:" %%i in (systemlist.txt) do (
 	set "flag= "
 	set /a idx=!idx!+1
